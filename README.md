@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Satyam 👋
+18 · India · Building in public
 
-<!--
-**satyamcoachingclub-pixel/satyamcoachingclub-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I've built
+- **BolType** — offline voice typing for Windows. Hold a key, talk, text appears anywhere.
+- **LeadIQ** — lead enrichment that runs 100% in your browser. Your data never leaves.
+- **Indian Coaches Directory** — top 50 Indian coaches, searchable by niche.
 
-Here are some ideas to get you started:
+🧰 Stack
+Python · JavaScript · n8n · GoHighLevel · learning MERN + Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Right now
+Commerce student by day, AI automation builder by night. Learning to code by shipping real things.
+
+📫 asksatyam.lovable.app
