@@ -1,13 +1,19 @@
-Hi I'm Satyam
+Hey everyone, it's Satyam!
 
-18 from India
-I build in public
+Most of you probably know me from X.
+
+But if you're new here, let me introduce myself real quick.
+
+I'm Satyam. I'm 18, a student, a builder, and an aspiring entrepreneur.
+
+And I'm starting to document my journey as I build, learn, and figure things out along the way.
 
 What I built
 
 BolType
 speak and your words become text
-offline on Windows
+works offline on Windows
+nothing you say ever leaves your machine
 
 LeadIQ
 drop in your leads
@@ -15,8 +21,9 @@ get them enriched right in your browser
 your data never leaves you
 
 Coaches Directory
-top 50 coaches of India
+top 50 coaches of India in one place
 search them by niche
+made for finding the right people to reach out to
 
 My stack
 
